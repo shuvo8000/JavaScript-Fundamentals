@@ -39,18 +39,11 @@ A comprehensive JavaScript repository covering core concepts, modern ES6+ featur
 * Event Loop, Call Stack & Callback Queue
 * Debounce & Throttle
 
-### Interview Preparation
-
-* Common JavaScript Interview Questions
-* Coding Challenges
-* Problem Solving Exercises
 
 ### Mini Projects
 
 * Calculator App
-* Todo App
-* Weather App
-* Expense Tracker
+
 
 ## Technologies Used
 
